@@ -9,7 +9,7 @@ How to create this project?
     this line => npm start (in you're folder of project like "my app folder")
 
 2.you need just three file in you're src folder like => 
-    -index.html
+    -index.js
     -index.css
     -App.js
 
